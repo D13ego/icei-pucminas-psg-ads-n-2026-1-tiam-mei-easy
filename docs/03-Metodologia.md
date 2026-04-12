@@ -67,7 +67,7 @@ Apresente a divisão de papéis entre os membros do grupo.
 Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
 - Scrum Master: Gustavo Mialgres;
 - Product Owner: Sara Marçal;
-- Equipe de Desenvolvimento: Daniel de Freitas Cunha, Danilo Henrique de Souza Riguette, Gabriel Ribeiro Augusto
+- Equipe de Desenvolvimento: Daniel de Freitas Cunha, Danilo Henrique de Souza Riguette, Diego Leôncio Batista Rosa, Gabriel Ribeiro Augusto
 - Equipe de Design: Todos
 
 <!-- 
